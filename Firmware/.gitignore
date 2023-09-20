@@ -1,0 +1,15 @@
+*.tmp
+*~
+.DS_Store
+.vscode/
+
+*.lst
+*.bin
+*.elf
+*.hex
+*.map
+*.o
+*.o65
+*.ptp
+
+ch32v003fun/

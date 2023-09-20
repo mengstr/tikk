@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "wch")(type "KiCad")(uri "${KIPRJMOD}/wch-mcu.kicad_sym")(options "")(descr ""))
+)
